@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front end`**
 
-Me chamo Eliene (Eli), tenho 42 anos e sou natural do Piauí. Concluí o ensino médio em escola publica, e fiz o curso técnico em desenvolvimento de sistemas pelo IFPI. Atualmente, estou cursando Licenciatura em ciência da computação na UNIFATECIE. Sou apaixonada por tecnologia.
+Eu me chamo Eliene (Eli), tenho 42 anos e sou natural do Piauí. Concluí o ensino médio em escola publica, e fiz o curso técnico em desenvolvimento de sistemas pelo IFPI. Atualmente, estou cursando Licenciatura em ciência da computação na UNIFATECIE. Sou apaixonada por tecnologia.
 <p align="left">
     <a href="https://www.youtube.com/@larissakich">
         <img 
