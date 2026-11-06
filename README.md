@@ -17,13 +17,15 @@
 
 ### 🌸 Sobre Mim
 
-Eu me chamo **Eliene (Eli)**, tenho 44 anos e sou natural do Piauí. Concluí o ensino médio em escola pública e fiz o curso técnico em desenvolvimento de sistemas pelo IFPI. Atualmente, estou cursando Licenciatura em Ciência da Computação na UNIFATECIE. Sou apaixonada por tecnologia e animes!
+Eu me chamo **Eliene (Eli)**, tenho 42 anos e sou natural do Piauí. Concluí o ensino médio em escola pública e fiz o curso técnico em desenvolvimento de sistemas pelo IFPI. Atualmente, estou cursando Licenciatura em Ciência da Computação na UNIFATECIE. Sou apaixonada por tecnologia e animes!
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -42,4 +44,14 @@ Eu me chamo **Eliene (Eli)**, tenho 44 anos e sou natural do Piauí. Concluí o 
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="
+  <img src="https://github-readme-stats.vercel.app/api?username=Elisakurati&show_icons=true&theme=rose_pine&count_private=true&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisakurati&theme=rose_pine&layout=compact&hide_border=true" height="170" />
+</div>
+
+---
+
+### 🐍 Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Elisakurati/Elisakurati/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
