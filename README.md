@@ -17,7 +17,7 @@
 
 ### 🌸 Sobre Mim
 
-Eu me chamo **Eliene (Eli)**, tenho 42 anos e sou natural do Piauí. Concluí o ensino médio em escola pública e fiz o curso técnico em desenvolvimento de sistemas pelo IFPI. Atualmente, estou cursando Licenciatura em Ciência da Computação na UNIFATECIE. Sou apaixonada por tecnologia e animes!
+Eu me chamo **Eliene (Eli)**, tenho 44 anos e sou natural do Piauí. Concluí o ensino médio em escola pública e fiz o curso técnico em desenvolvimento de sistemas pelo IFPI. Atualmente, estou cursando Licenciatura em Ciência da Computação na UNIFATECIE. Sou apaixonada por tecnologia e animes!
 
 ---
 
